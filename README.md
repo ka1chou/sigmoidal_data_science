@@ -5,21 +5,18 @@
 </p>
 
 # Rodrigo Fernades
-<sub>* </sub>
+<sub> </sub>
 
-Student of Data Science and Web Development
+Student of Data Science, data analysis and full-stack web development.
 
 **Background in:** Python, Data Science, Machine Learning.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [Blog]
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
 Veja os tutoriais publicados:
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
 
