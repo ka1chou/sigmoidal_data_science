@@ -9,11 +9,11 @@
 
 Student of Data Science, data analysis and full-stack web development.
 
-**Background in:** Python, Data Science, Machine Learning.
+**Background in:** Python, Data Science, Machine Learning, DataBases/MySQL
 
 **Links:**
 * [Blog]
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@rferna14)
 
 
 ## Projetos:
