@@ -7,7 +7,7 @@
 # Rodrigo Fernades
 <sub> </sub>
 
-Student of Data Science, data analysis and full-stack web development.
+Estudo data science, desenvolvimento web e copywriting.
 
 **Background in:** Python, Data Science, Machine Learning, DataBases/MySQL
 
