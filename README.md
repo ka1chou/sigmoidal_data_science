@@ -19,9 +19,10 @@ Student of Data Science, data analysis and full-stack web development.
 ## Projetos:
 Veja os tutoriais publicados:
 
- * Criminalidade em São Paulo bit.ly/2YSCmvdbit.ly/2YSCmvd
+ * Criminalidade em São Paulo (bit.ly/2YSCmvdbit.ly/2YSCmvd)
  
- * Airbnb em Chicago - Análise dos dados bit.ly/3dUKdN0
+ * Airbnb em Chicago - Análise dos dados (bit.ly/3dUKdN0)
+ 
  
  
 
