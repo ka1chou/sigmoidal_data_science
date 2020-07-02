@@ -12,7 +12,7 @@ Estudo data science, desenvolvimento web e copywriting.
 **Background in:** Python, Data Science, Machine Learning, DataBases/MySQL
 
 **Links:**
-* [Blog]
+* [LinkedIn](https://www.linkedin.com/in/rodrigo-fernandes-72b9aa100/)
 * [Medium](https://medium.com/@rferna14)
 
 
