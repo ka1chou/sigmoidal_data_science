@@ -23,7 +23,7 @@ Confira os repositórios publicados:
  
  * [Airbnb em Chicago - Análise dos dados](bit.ly/3dUKdN0)
  
- * [A-Simple-WebSite] (https://github.com/rfernand3s/A-Simple-Website)
+ * [A-Simple-WebSite](https://github.com/rfernand3s/A-Simple-Website)
  
  
  
