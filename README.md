@@ -9,7 +9,7 @@
 
 Estudo data science, desenvolvimento web e copywriting.
 
-**Background in:** Python, Data Science, Machine Learning, DataBases/MySQL
+**Background in:** Python, Data Science, Machine Learning, JavaScript, DataBases/MySQL
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-fernandes-72b9aa100/)
@@ -17,11 +17,13 @@ Estudo data science, desenvolvimento web e copywriting.
 
 
 ## Projetos:
-Veja os tutoriais publicados:
+Confira os repositórios publicados:
 
  * [Criminalidade em São Paulo](bit.ly/2YSCmvdbit.ly/2YSCmvd)
  
  * [Airbnb em Chicago - Análise dos dados](bit.ly/3dUKdN0)
+ 
+ * [A-Simple-WebSite] (https://github.com/rfernand3s/A-Simple-Website)
  
  
  
