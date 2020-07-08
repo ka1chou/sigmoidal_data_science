@@ -25,7 +25,7 @@ Confira os repositórios publicados:
  
  * [A-Simple-WebSite](https://github.com/rfernand3s/A-Simple-Website)
  
- * [Identificador de Idade - Um projeto em JavaScript para iniciantes](https://github.com/rfernand3s/Projeto-Verificador-de-Idade/blob/master/README.md)
+ * [Identificador de Idade - Um projeto em JavaScript para iniciantes](https://github.com/rfernand3s/Projeto-Verificador-de-Idade)
  
  
  
