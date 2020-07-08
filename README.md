@@ -21,7 +21,7 @@ Confira os repositórios publicados:
 
  * [Criminalidade em São Paulo](https://github.com/rfernand3s/Criminalidade_em_SP)
  
- * [Airbnb em Chicago - Análise dos dados](bit.ly/3dUKdN0)
+ * [Airbnb em Chicago - Análise dos dados](https://github.com/rfernand3s/Airbnb_Chicago_Analise_dos_dados)
  
  * [A-Simple-WebSite](https://github.com/rfernand3s/A-Simple-Website)
  
