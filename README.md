@@ -19,7 +19,7 @@ Estudo data science, desenvolvimento web e copywriting.
 ## Projetos:
 Confira os repositórios publicados:
 
- * [Criminalidade em São Paulo](bit.ly/2YSCmvdbit.ly/2YSCmvd)
+ * [Criminalidade em São Paulo](https://github.com/rfernand3s/Criminalidade_em_SP)
  
  * [Airbnb em Chicago - Análise dos dados](bit.ly/3dUKdN0)
  
