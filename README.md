@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ka1chou/sigmoidal_data_science/master/Screen%20Shot%202020-06-23%20at%2011.23.58.png" >
 </p>
 
-# Rodrigo Fernades
+# Rodrigo Fernandes
 <sub> </sub>
 
 Estudo data science, desenvolvimento web e copywriting.
