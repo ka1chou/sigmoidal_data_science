@@ -5,7 +5,7 @@
 # Rodrigo Fernandes
 <sub> </sub>
 
-Estudo data science, desenvolvimento web e copywriting.
+Ciência de dados, desenvolvimento web e copywriting. Prática, Portfolio e Personal Branding.
 
 **Background in:** Python, Data Science, Machine Learning, JavaScript, DataBases/MySQL
 
