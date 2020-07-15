@@ -25,6 +25,8 @@ Confira os repositórios publicados:
  
  * [Identificador de Idade - Um projeto em JavaScript para iniciantes](https://github.com/rfernand3s/Projeto-Verificador-de-Idade)
  
+ * [Analise da Violência do Rio de Janeiro](https://github.com/rfernand3s/Analise_Violencia_Rio_de_Janeiro)
+ 
  
  
  
