@@ -7,7 +7,8 @@
 
 Ciência de dados, desenvolvimento web e copywriting. Prática, Portfolio e Personal Branding.
 
-**Background in:** Python, Data Science, Machine Learning, JavaScript, DataBases/MySQL
+**Background in:** Python, Data Science, Machine Learning
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-fernandes-72b9aa100/)
